@@ -25,7 +25,7 @@ This project applies multiple machine learning approaches to the Steam games dat
 
 ## Dataset
 
-**Source:** `games_steam.csv`  
+**Source:** [Steam Games Dataset — Kaggle](https://www.kaggle.com/datasets/artermiloff/steam-games-dataset?utm_source=chatgpt.com&select=games_march2025_full.csv) (`games_steam.csv`)  
 **Shape:** ~94,954 rows × 44 columns  
 **Target Variable:** `average_playtime_forever`
 
